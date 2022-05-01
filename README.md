@@ -24,3 +24,12 @@ Term frequency-inverse document frequency (TF-IDF) is a feature vectorization m
 
 We have implemented Random Forest model using Pyspark MLlib. The ensemble model makes predictions by combining results from the individual trees. 
 
+# Visualizations
+
+<img width="309" alt="image" src="https://user-images.githubusercontent.com/73183258/166131894-492a2ab4-ec8b-48c5-9f35-f47c577395f1.png">
+
+<img width="402" alt="image" src="https://user-images.githubusercontent.com/73183258/166131905-bd735243-d1be-415f-a366-cda262591597.png">
+
+<img width="385" alt="image" src="https://user-images.githubusercontent.com/73183258/166131910-07d2d342-7f97-4822-801e-e7a6bc6e43dc.png">
+
+<img width="425" alt="image" src="https://user-images.githubusercontent.com/73183258/166131912-7809fee5-54a9-4d40-9b9d-a41398bdc544.png">
